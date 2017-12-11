@@ -1,9 +1,8 @@
 <template>
-    <div class="znwyy-main main" > 
+    <div class="znwyy-main main" >
+        <div class="add"></div>
         <el-scrollbar  wrap-class="el-picker-panel__content iscroll-warp">
-            <div class="main-content" >
-                <h2 class="sgintitle bordrtSet">通信管理</h2>
-                <h2 class="sgintitle modeltitle">智能网语音</h2>
+            <div class="main-content sss" >
                 <div>
                     <!-- 车联网集团智能语音列表先放这里 -->
                     <znwyy-x-menu></znwyy-x-menu>
